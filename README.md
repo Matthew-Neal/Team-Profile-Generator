@@ -26,8 +26,8 @@ https://github.com/Matthew-Neal
  Email me at:  
 impulseimg@gmail.com  
 for additional questions
-
-#DEMO
+<br>
+DEMO<br>
 https://matthew-neal.github.io/Team-Profile-Generator/Develop/output/team.html
 
 ![Team-Profile-Generator](./Assets/TeamProfileGenerator.gif)
